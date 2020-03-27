@@ -1,0 +1,155 @@
+/*
+.paragrafo{
+    text-align: center;
+}
+*/
+#wallpaper{
+    position: absolute;
+    width: 1366px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+
+    background: #2CB3F3;
+}
+
+#texto1{
+    position: absolute;
+    width: 1056px;
+    height: 132px;
+    left: 144px;
+    top: 89px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 56px;
+    line-height: 55px;
+
+    text-align: center;
+
+    color: black;
+
+    text-size-adjust: ;
+}
+
+#input-email{
+    position: absolute;
+    width: 373.96px;
+    height: 63.65px;
+    left: 496.29px;
+    top: 563px;
+
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+#input-password{
+    position: absolute;
+    width: 373.96px;
+    height: 63.65px;
+    left: 496.29px;
+    top: 626px;
+
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+#big-head{
+    position: absolute;
+    width: 880px;
+    height: 616px;
+    left: 243px;
+    top: 245px;
+    
+    background: #FFFFFF;
+    border-radius: 100px 100px 0px 0px;
+}
+
+#face{
+    position: absolute;
+    width: 692px;
+    height: 487px;
+    left: 337px;
+    top: 309px;
+    
+    background: #FFE1C9;
+    
+    margin: -50px auto;
+    border-radius: 50%;
+}
+
+/* 
+https://codepen.io/pixelsoup/pen/GrcFq
+
+.circle { 
+  margin: -50px auto;
+  width: 400px; 
+  height: 500px;
+  border-radius: 50%;
+  background: #888;
+  -moz-transform: scaleY(0.4);
+  -webkit-transform: scaleY(0.4);
+}
+*/
+
+#left-eye{
+    position: absolute;
+    width: 55.7px;
+    height: 55.7px;
+    left: 515.39px;
+    top: 405.88px;
+
+    border-radius: 100px 100px 100px 100px;
+    
+    background: #000000;
+}
+
+#right-eye{
+    position: absolute;
+    width: 55.7px;
+    height: 55.7px;
+    left: 795.46px;
+    top: 405.88px;
+
+    border-radius: 100px 100px 100px 100px;
+    
+    background: #000000;   
+}
+
+#entrar{
+    position: absolute;
+    width: 92px;
+    height: 28px;
+    left: 637px;
+    top: 906px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #B2F272;
+}
+
+#botao-entrar{
+    position: absolute;
+    width: 220px;
+    height: 70px;
+    left: 573px;
+    top: 885px;
+    
+    background: #55A603;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+
+
+
+
+
