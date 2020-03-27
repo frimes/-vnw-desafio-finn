@@ -32,6 +32,12 @@
     text-size-adjust: ;
 }
 
+/*
+.form-up{
+    
+}
+*/
+
 #input-email{
     position: absolute;
     width: 373.96px;
@@ -43,6 +49,8 @@
     border: 3px solid #000000;
     box-sizing: border-box;
     border-radius: 5px;
+
+    z-index: 10;
 }
 
 #input-password{
@@ -56,6 +64,8 @@
     border: 3px solid #000000;
     box-sizing: border-box;
     border-radius: 5px;
+
+    z-index: 10;
 }
 
 #big-head{
@@ -121,7 +131,7 @@ https://codepen.io/pixelsoup/pen/GrcFq
 }
 
 #entrar{
-    position: absolute;
+    position: relative;
     width: 92px;
     height: 28px;
     left: 637px;
@@ -134,10 +144,12 @@ https://codepen.io/pixelsoup/pen/GrcFq
     line-height: 28px;
 
     color: #B2F272;
+
+    z-index: 10;
 }
 
 #botao-entrar{
-    position: absolute;
+    position: relative;
     width: 220px;
     height: 70px;
     left: 573px;
